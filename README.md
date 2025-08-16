@@ -192,18 +192,9 @@ API endpoint: `POST /generate`
 ## 👥 Đóng góp
 
 Dự án được phát triển bởi **Nhóm 14** như một phần của khóa học về AI và Machine Learning.
-
-### Cách đóng góp
-1. Fork repository
-2. Tạo feature branch
-3. Commit changes
-4. Submit pull request
-
-## 📄 License
-
-Dự án này được phát hành dưới MIT License. Xem file LICENSE để biết thêm chi tiết.
-
-## 📞 Liên hệ
+Gồm: Nguyễn Hà Kiên
+     Đào Tiến Đạt
+     Nguyễn Định
 
 Nếu có câu hỏi hoặc góp ý về dự án, vui lòng tạo issue trên GitHub repository.
 
